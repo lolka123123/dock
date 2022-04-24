@@ -397,7 +397,7 @@
     font-weight: 400;
     font-size: 32px;
     line-height: 36px;
-    color: var(--secondery-text-title);
+    color: var(--secondery-title-color);
 }
 
 .section6-bg-card2-text {
